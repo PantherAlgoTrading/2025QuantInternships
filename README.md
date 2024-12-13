@@ -19,6 +19,7 @@ QR = Quantitative Research
 QT = Quantitative Trading
 
 
+
 ------
 
 
